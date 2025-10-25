@@ -2,11 +2,7 @@ streamlit
 pandas
 numpy
 scikit-learn
-shap
 xgboost
-matplotlib
-joblib
-os
+shap
 matplotlib
 streamlit_shap
-warnings
